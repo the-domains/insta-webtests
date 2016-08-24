@@ -1,0 +1,14 @@
+layout_spectrum: 0.9276570864021778
+typography_spectrum: 0.40328461886383593
+color:
+  brandStrength: 0.2951045520603657
+  lightness: 0.5786350211128592
+  saturation: 0.7537673392798752
+  rhythmicContrast: 0.33771199849434197
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Insta-Webtests
